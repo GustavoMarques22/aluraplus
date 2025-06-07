@@ -12,7 +12,7 @@ Imagine ter acesso ilimitado a **milhares de cursos de tecnologia** e, ao mesmo 
 
 Não importa se você está na tela grande da sua TV, no conforto do seu notebook, ou em trânsito com seu celular ou tablet. O **Alura Plus** se adapta ao seu estilo de vida\!
 
-[Imagem da Tela](AluraPlus/img/TelaAlura+.png)
+[Imagem da Tela](/AluraPlus/img/TelaAlura+.png)
 
 E a melhor parte? Você pode **baixar seus cursos favoritos** e assisti-los offline, em qualquer lugar, a qualquer hora. Sua jornada de aprendizado não tem limites\!
 
