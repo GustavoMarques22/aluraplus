@@ -1,9 +1,5 @@
 # 🚀 Alura Plus: Sua Imersão no Conhecimento Começa Aqui\! 🚀
 
-\<p align="center"\>
-\<img src="img/Logo.png" alt="Logo Alura Plus" width="300"\>
-\</p\>
-
 -----
 
 ## ✨ Por Que o Alura Plus?
@@ -16,9 +12,7 @@ Imagine ter acesso ilimitado a **milhares de cursos de tecnologia** e, ao mesmo 
 
 Não importa se você está na tela grande da sua TV, no conforto do seu notebook, ou em trânsito com seu celular ou tablet. O **Alura Plus** se adapta ao seu estilo de vida\!
 
-\<p align="center"\>
-\<img src="img/Plataformas.png" alt="Dispositivos Alura Plus" width="600"\>
-\</p\>
+[Imagem da Tela](AluraPlus/img/TelaAlura+.png)
 
 E a melhor parte? Você pode **baixar seus cursos favoritos** e assisti-los offline, em qualquer lugar, a qualquer hora. Sua jornada de aprendizado não tem limites\!
 
@@ -40,15 +34,15 @@ Quer experimentar o Alura Plus? É super fácil:
 1.  **Clone este repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/alura-plus.git
+    git clone https://github.com/seu-usuario/aluraplus.git
     ```
 
-    *(Não esqueça de substituir `seu-usuario` pelo seu nome de usuário e `alura-plus` pelo nome do seu repositório)*
+    *(Não esqueça de substituir `seu-usuario` pelo seu nome de usuário e `aluraplus` pelo nome do seu repositório)*
 
 2.  **Entre na pasta do projeto:**
 
     ```bash
-    cd alura-plus
+    cd aluraplus
     ```
 
 3.  **Abra o arquivo `index.html` no seu navegador favorito\!**
